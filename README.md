@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Project Fusion
+- 💬 Ask me about my Crypto NFT
+- 📫 How to reach me: @jonathan.lundy via r-slack
+- ⚡ Fun fact: I love SpaceX, HamRadio, and Go
+
 <!--
 **rr-jonathan-lundy/rr-jonathan-lundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
