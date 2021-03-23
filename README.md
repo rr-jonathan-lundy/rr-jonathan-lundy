@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Project Fusion
-- 💬 Ask me about my Crypto NFT
+- 💬 Ask me about my Crypto NFT collection
 - 📫 How to reach me: @jonathan.lundy via r-slack
 - ⚡ Fun fact: I love SpaceX, HamRadio, and Go
 
